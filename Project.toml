@@ -1,0 +1,6 @@
+name = "DynamicRemoteCall"
+uuid = "009040a2-6d4d-11e9-2d21-53fc5358de08"
+authors = ["Long Wang <wangl.cc@outlook.com>"]
+
+[deps]
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
